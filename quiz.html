@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz Sathi</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="quiz.css" />
+  </head>
+  <body>
+    <div class="app">
+      <h1>Quiz Sathi</h1>
+      <div class="category-section">
+        <label for="category">Choose a topic to begin:</label>
+        <select id="category">
+          <option value="9">General Knowledge</option>
+          <option value="18">Computers</option>
+          <option value="21">Sports</option>
+          <option value="23">History</option>
+          <option value="17">Science & Nature</option>
+        </select>
+        <button onclick="startQuiz()">Start Quiz</button>
+      </div>
+
+      <div class="quiz-section" id="quizSection">
+        <div class="question" id="question">Loading...</div>
+        <div id="answers"></div>
+        <button id="nextBtn" onclick="handleNext()">Next</button>
+      </div>
+
+      <div class="score-section" id="scoreSection">
+        <button onclick="startQuiz()">Restart Quiz</button>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script src="quiz.js"></script>
+  </body>
+</html>
