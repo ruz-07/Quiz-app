@@ -4,15 +4,15 @@ A simple and interactive **Quiz Application** built using **HTML, CSS, and JavaS
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📝 Multiple Choice Questions
-- ⏱️ Real-time Score Calculation
-- 🎉 Confetti Animation on Completion
-- 📱 Responsive Design
-- ⚡ Fast and Lightweight
-- 🎨 Clean and Modern UI
-- 🔄 Restart Quiz Anytime
+-  Multiple Choice Questions
+-  Real-time Score Calculation
+-  Confetti Animation on Completion
+-  Responsive Design
+-  Fast and Lightweight
+-  Clean and Modern UI
+-  Restart Quiz Anytime
 
 ---
 
@@ -24,7 +24,7 @@ A simple and interactive **Quiz Application** built using **HTML, CSS, and JavaS
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Quiz-App/
@@ -37,7 +37,7 @@ Quiz-App/
 
 ---
 
-## 📸 Preview
+##  Preview
 
 > Add a screenshot of your project here.
 
@@ -55,7 +55,7 @@ Then use:
 
 ---
 
-## 🎮 How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -71,7 +71,7 @@ No installation required.
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 - Timer for each question
 - Difficulty Levels
