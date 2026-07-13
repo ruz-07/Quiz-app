@@ -16,7 +16,7 @@ A simple and interactive **Quiz Application** built using **HTML, CSS, and JavaS
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
@@ -95,9 +95,9 @@ Feel free to fork this repository and submit a pull request.
 
 **Rupesh Kharal**
 
-📧 Email: **rupeshkharel76@gmail.com**
+ Email: **rupeshkharel76@gmail.com**
 
-💼 LinkedIn: https://www.linkedin.com/in/rupeshkharal/
+ LinkedIn: https://www.linkedin.com/in/rupeshkharal/
 
 ---
 
